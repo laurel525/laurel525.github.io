@@ -10,10 +10,10 @@
 ############################
 
 # Name of website
-title: My website
+title: Laurel525's Website
 
 # Your name to show in the footer
-author: Some Person
+author: Laurel525
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -22,7 +22,7 @@ author: Some Person
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
+    - CSCI103: "https://glow.williams.edu/courses/7778618"
     - Learn markdown: "https://www.markdowntutorial.com/"
   Author's home: "https://deanattali.com"
 
