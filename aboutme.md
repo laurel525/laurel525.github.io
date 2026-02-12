@@ -1,16 +1,11 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: 
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Laurel Barrett. I decided to take Computer Sciencer 103, Electronic Textiles, to push myself out of my comfort zone and learn TWO new skills in one class -- basic programming and sewing. The idea of creating and presenting a project of my own at the end of the semester stuck out to me the most, as it will be a concrete symbol of the skills I acquired. Computers and programming was never my thing growing up, but it's never too late to add to your skill-set! I'm excited to improve my problem-solving skills, NOT lose my patience, and be able to hopefully use what I learn in this introductory course in other avenues in my life, whether it be creating a website of my own in the future for my career or embroidering or sewing as a relaxing pass-time. I can't wait to see what else this semester full of firsts brings!
 
-- I rock a great mustache
-- I'm extremely loyal to my family
 
-What else do you need?
 
-### My story
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
