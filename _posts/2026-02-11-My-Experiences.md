@@ -1,6 +1,5 @@
 
-# My Experiences!
-College, sewing, and programming -- new to all three!
+# College, sewing, and programming -- new to all three!
 
 Laurel Barrett
 
