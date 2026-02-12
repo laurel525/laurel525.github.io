@@ -29,4 +29,4 @@ My goal for this semester is to become more comfortable with programming, learn 
 
 My favorite month of the year is November! November is the month where it finally feels like fall in New Jersey and stops being humid, the leaves become crunchy under my feet, and I've found a groove in school. Also, some of my favorite memories have been in November -- going back to my favorite city, Boston, in the fall this time, with my mom and friends and meandering through The Common at midnight; seeing the only musical I tolerate -- Hamilton -- in Philadelphia; going on nature walks with my 6-year-old brother; and experiencing a full New England fall here at Williams!
 
-![Friends and I in Boston](https://laurel525.github.io/assets/img/IMG_3916.jpeg)
+![Friends and I in Boston](https://laurel525.github.io/assets/img/IMG_3928.jpeg)
