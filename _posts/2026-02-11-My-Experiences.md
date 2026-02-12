@@ -10,9 +10,9 @@ Laurel Barrett
 
 My name is Laurel Barrett and I'm a freshman at Williams College. I am planning on double majoring in American Studies and Comparative Literature on the pre-law track. 
 
-Here's a picture of a corkboard I made over the summer for my dorm room!
+Here's a picture of a cork board I made over the summer for my dorm room!
 
-![Corkboard](https://laurel525.github.io/assets/img/IMG_5797.jpeg)
+![Cork board](https://laurel525.github.io/assets/img/IMG_5797.jpeg)
 
 ### Sewing and Programming Experience
 
