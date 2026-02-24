@@ -9,14 +9,14 @@ Laurel Barrett
 
 Below is an image of the front of my sewing sampler...
 
-![Front of sewing sampler](https://laurel525.github.io/assets/img/1.png)
+![Front of sewing sampler](https://laurel525.github.io/assets/img/2.png)
 
 
 ### Back
 
 Below is an image of the back of my sewing sampler...
 
-![Back of sewing sampler](https://laurel525.github.io/assets/img/2.png)
+![Back of sewing sampler](https://laurel525.github.io/assets/img/1.png)
 
 #### Tips and Tricks for Myself
 
