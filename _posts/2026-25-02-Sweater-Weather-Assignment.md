@@ -8,7 +8,7 @@ Laurel Barrett
 
 In order to practice programming if...then statements, this assignment focuses on a changing temperature variable that elicits a response of the corresponding appropriate clothing/action that should be pursued. The program involves if, if...else, and else statements that all should print with the proper temperature integer that fits within the set parameters. I completed the extra credit as well that involved more than 5 lines of if...then statements and tested their accuracy with multiple different temperature integers. 
 
-![Debugging output of temp integer 30](https://laurel525.github.io/assets/img/untitled design (1).png)
+![Debugging output of temp integer 30](https://laurel525.github.io/assets/img/untitled-design-(1).png)
 
 ### Tip/Hint for my Past Self
 
