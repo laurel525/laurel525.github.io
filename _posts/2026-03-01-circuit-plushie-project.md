@@ -22,7 +22,7 @@ In this assignment, we started by thinking through a circuit prototype that woul
 
 ###### Alligator clip prototype test...
 
-![Alligator clip prototype test](https://laurel525.github.io/assets/img/alligator_test.png)
+![Alligator clip prototype test](https://laurel525.github.io/assets/img/alligator_test_2.png)
 
 ###### Tip for someone completing this project?
 
