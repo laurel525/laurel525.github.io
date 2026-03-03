@@ -24,6 +24,6 @@ In this assignment, we started by thinking through a circuit prototype that woul
 
 ![Alligator clip prototype test](https://laurel525.github.io/assets/img/alligator_test.png)
 
-####### Tip for someone completing this project?
+###### Tip for someone completing this project?
 
 I would advise someone doing this project to go super slow doing the whip stitch around the plushie. It's easy for it to get tangled, so really take your time. Related, socks work great as stuffing -- just leave a kind of bigger gap before trying to stuff them inside!
