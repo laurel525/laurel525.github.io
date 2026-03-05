@@ -10,7 +10,7 @@ In this assignment, we used nested if statements to create a program that will f
 
 ### Output of my code...
 
-![Front side of circuit plushie](https://laurel525.github.io/assets/img/menu_output(2).png)
+![Output of Menu Code](https://laurel525.github.io/assets/img/menu_output(2).png)
 
 #### Tip for my past self!
 
