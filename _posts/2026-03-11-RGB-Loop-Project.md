@@ -10,7 +10,7 @@ This project uses "while" loops to mimic the action of lighting up LEDs of diffe
 
 ### Output of my code...
 
-![Output of RGB_Loop Code](https://laurel525.github.io/assets/img/rbgloop_output.png)
+![Output of RGB_Loop Code](https://laurel525.github.io/assets/img/rgbloop_output.png)
 
 #### Tip for my past self!
 
