@@ -4,9 +4,10 @@ Laurel Barrett
 
 ## Description and Motivation
 
-My final project, Slimer Gets Blasted, is a plushy depiction of Slimer from the Ghostbusters franchise. A homemade snap switch on the back of the plushy controls the entire circuit. When the switch is on (closed) and the light sensor located on his stomach reads a threshold value of over 700 from a flashlight (proton stream), two red LEDs that serve as his eyes fade up and down in a loop to elicit a sense of panic in Slimer's eyes. At the same time, the buzzer located in Slimer's mouth starts at a frequency of 180 and gradually increases to a max frequency (300) before decreasing again in a loop. This is meant to mimic Slimer's wail upon being blasted. I sewed the plushy together using blanket stitch around the felt, created a battery pocket on the back and slime marks on the front using running stitch, and I embellished Slimer's eyes and mouth with satin stitch. I also fastened a protruding felt tongue on his mouth.  
+My final project, Slimer Gets Blasted, is a plushy depiction of Slimer from the Ghostbusters franchise. A homemade snap switch on the back of the plushy controls the entire circuit. When the switch is on (closed) and the light sensor located on his stomach reads a threshold value of over 750 from a flashlight (proton stream), two red LEDs that serve as his eyes fade up and down in a loop to elicit a sense of panic in Slimer's eyes. At the same time, the buzzer located in Slimer's mouth starts at a frequency of 200 and gradually increases by 5 units to a max frequency (350) before decreasing again in a loop. This is meant to mimic Slimer's wail upon being blasted. I sewed the plushy together using blanket stitch around the felt, created a battery pocket on the back and slime marks on the front using running stitch, and I embellished Slimer's eyes and mouth with satin stitch. I also fastened a protruding felt tongue on his mouth.  
 
 As an avid fan of movies, specifically the Ghostbuster's franchise, I was excited to bring one of my favorite characters to life. I have made my younger brothers and I different Ghostbusters-themed Halloween costumes in the past, and I made a realistic replica of a proton pack and wand as well. I think it is extremely fulfilling to be able to mix something you're passionate about with your creativity in order to bring something you love to life. I designed this Slimer to be a hand-held plushy, as I plan to give it to my 7-year-old brother this summer; however, it could also serve as an indoor (or outdoor) interactive Halloween decoration as well! My family and I are huge fans of Halloween and my brothers and I would have fun growing up creating our own decorations for the house. While I ultimately chose Slimer for this project, any pop culture icon, or even an animal or household pet, would have worked just as well! The beauty and importance of my project, I believe, is that it shows that anybody is capable of bringing something they love to life using their own hands, problem-solving skills, and creativity! 
+
 
 ### Comprehensive Materials List
 
@@ -42,14 +43,13 @@ Below is an image of my working alligator clip set-up! There were lots of wires 
 ![Working Alligator Clip Testing](https://laurel525.github.io/assets/img/IMG_7596.jpg)
 
 
-
 ###### Three Tips to My Past Self...
 
-1. I would first remind myself to be extra cautious with the tails of the negative and positive conductive thread lines on the interior of my plushy. I spaced the different threads out appropriately (per my paper prototype), making sure the lines were insulated when they needed to cross; however, I noticed after attaching all of my LilyPad parts that some of the positive and negative tails were touching on the inside. I was able to quickly fix this by trimming them down, but next time I would be more careful from the start!
+1. I would first advise myself to be extra cautious with the tails of the negative and positive conductive thread lines on the interior of my plushy. I spaced the different threads out appropriately (per my paper prototype), making sure the lines were insulated when they needed to cross; however, I noticed after attaching all of my LilyPad parts that some of the positive and negative tails were touching on the inside. I was able to quickly fix this by trimming them down, but next time I would be more careful from the start!
 
 2. For the embroidery aspect, I would have advised my past self to approach slimer's mouth differently. I'm happy with how it turned out; however, I think I would have been able to cover the buzzer more if I had started by creating a square around the buzzer first, using satin stitch, and THEN embroidering the mouth shape over it. I realized this technique would have been better after I had already done the majority of the mouth. Next time I'll know!
 
-3. When it comes to the coding, I would have tried another approach to coding the buzzer's fading up and down in frequency behavior. I figured out how to achieve this looped behavior using booleans and multiple if statements, but I was informed by a TA after the fact that the same behavior could have been achieved through for loops. I was also told, though, that the use of for loops would require changes to other parts of my code to keep the light sensor in control of my the circuit. Since I achieved the behavior I wanted through my boolean method, I didn't feel as though it was necessary to re-think my code with the for loop method. With that being said, I would certainly advise my past self to try and work through that more concise method from the start!
+3. When it comes to the coding, I would have tried another approach to coding the buzzer's fading up and down in frequency behavior. I figured out how to achieve this looped behavior using booleans and multiple if statements, but I was informed by a TA after the fact that the same behavior could have been achieved through for loops. I was also told, though, that the use of for loops would require significant changes to other parts of my code to keep the light sensor in control of my the circuit. Since I achieved the behavior I wanted through my boolean method, I didn't feel as though it was necessary to re-think my code with the for loop method. With that being said, I would certainly advise my past self to try and work through that more concise method from the start next!
 
 
 ###### I Didn't Utilize Any Outside Information in my Project That Would Require a Citation!
@@ -57,7 +57,7 @@ Below is an image of my working alligator clip set-up! There were lots of wires 
 
 ###### Final Reflections
 
-I'm extremely happy with how my final project turned out! I feel extremely accomplished, having started this course with no programming knowledge, no circuitry knowledge, and limited sewing skills. I feel like this is the class learned most in this semester, and to be able to have a tangible project at the end that showcases all of my new skills is so rewarding! I can't wait to give Slimer to my brother when I get home and see the joy he brings him too!
+I'm extremely happy with how my final project turned out! I feel extremely accomplished, having started this course with no programming knowledge, no circuitry knowledge, and limited sewing skills. I feel like this is the class I learned most from this semester, and to be able to have a tangible project at the end that showcases all of my new skills is so rewarding! I can't wait to give Slimer to my brother when I get home and see the joy he brings him too!
 
 
 
